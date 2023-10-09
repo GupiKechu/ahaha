@@ -1,0 +1,9 @@
+#include <stdio>
+main (){
+int x,y,S;
+x=2;
+y=5;
+S=x+y;
+printf ("s= %d", s)
+}
+
